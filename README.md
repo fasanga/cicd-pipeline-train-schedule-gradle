@@ -8,7 +8,7 @@ It is not necessary to run this app locally in order to complete the learning ac
 
     npm install
 
-Then, you can run the app at all time that you chose with:
+Then, you can run the app at with:
 
     npm start
 
